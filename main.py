@@ -59,7 +59,7 @@ def generate_description(prompt):
                     have Teamwork. If two weak warriors with Teamwork attack attack as if they were a single normal warrior.
                     - Sniper: When a warrior with Sniper attacks, it deals [ x ] extra damage to the opposing player.
                     - Blocker: When a warrior or item is attached to a warrior or item with Blocker, they can intercept attacks that would be directed at the warrior to themselves.
-                    - Inconspicuous: When a warrior with Inconspicuous attacks, it cannot be targeted by the opposing player. (Unless it is the only warrior on the battlefield.)
+                    - Inconspicuous: When a warrior with Inconspicuous attacks, it cannot be targeted by the opposing player. (Unless it is the only warrior on the battlefield.) You can only have one warrior with Inconspicuous on the battlefield at a time.
                     - Underwhelm: When a warrior or item with Underwhelm would Decide the Outcome of a Clash, it always loses.
                     - Follow-up: When you play a card with Follow-up, you may play another card with Follow-up from your hand for free.
                     - Pressure: [ x ] While a card with Pressure [ x ] is on the battlefield, you roll with an addition + [ x ]  to your dice rolls for the turn. 
